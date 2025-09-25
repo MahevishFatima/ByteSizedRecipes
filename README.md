@@ -1,5 +1,3 @@
-# ByteSizedRecipes
-
 # ByteSized Recipes
 
 A small React app to find recipes by ingredient using TheMealDB API.
@@ -24,5 +22,5 @@ This app uses TheMealDB API:
 - This project uses Tailwind via Play CDN for speed. For production, consider proper Tailwind build setup.
 
 ## Submission
-- ChatGPT conversation link: <PASTE_CHATGPT_SHARE_LINK_HERE>
+- ChatGPT conversation link: <https://chatgpt.com/share/68d4d42d-0b5c-8011-9aef-45d301693768>
 - Deployed app: <https://codesandbox.io/p/sandbox/bytesizedrecipes-ttgt4d>
