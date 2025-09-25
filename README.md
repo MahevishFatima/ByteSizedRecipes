@@ -5,18 +5,13 @@
 A small React app to find recipes by ingredient using TheMealDB API.
 
 ## Live Demo
-<PASTE_YOUR_CODESANDBOX_URL_HERE>
+<https://codesandbox.io/p/sandbox/bytesizedrecipes-ttgt4d>
 
 ## Features
 - Search recipes by ingredient (TheMealDB).
 - View recipe details and ingredients in a modal.
 - Responsive layout (Tailwind CSS via Play CDN).
 - Keyboard accessible modal (ESC to close).
-
-## How to run locally (quick)
-1. Clone repo
-2. `npm install`
-3. `npm start`  (or use `vite` command if using Vite)
 
 > For quick review, the CodeSandbox demo has Tailwind Play CDN set up — no build is required.
 
@@ -30,4 +25,4 @@ This app uses TheMealDB API:
 
 ## Submission
 - ChatGPT conversation link: <PASTE_CHATGPT_SHARE_LINK_HERE>
-- Deployed app: <PASTE_CODESANDBOX_LINK_HERE>
+- Deployed app: <https://codesandbox.io/p/sandbox/bytesizedrecipes-ttgt4d>
